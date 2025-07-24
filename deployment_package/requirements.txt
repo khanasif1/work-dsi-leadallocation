@@ -1,9 +1,0 @@
-streamlit
-requests
-azure-storage-blob
-azure-identity
-azure-mgmt-logic
-fastapi
-uvicorn
-gunicorn
-python-multipart
